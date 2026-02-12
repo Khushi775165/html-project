@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>MERN Stack Developer</title>
+</head>
+
+<body>
+
+    <h1>Heading 01</h1>
+    <h2>Heading 02</h2>
+    <h3>Heading 03</h3>
+    <h4>Heading 04</h4>
+    <h5>Heading 05</h5>
+    <h6>Heading 06</h6>
+
+    <p>Hello paragraph</p>
+    <hr>
+
+    <p>Hello <br> World</p>
+
+    <p>Hello world <i>hello</i> <b>bold</b> top class</p>
+
+    <span>Hello span <u>underline</u> <u><b><i>Tecstem</i></b></u></span>
+
+    <br><br>
+
+    <abbr title="Hypertext Markup Language">HTML</abbr>
+
+    <br><br>
+
+    <img src="./assets/123.png" width="90" alt="image">
+
+    <br><br>
+
+    <a href="https://www.google.com/">Google</a>
+    |
+    <a href="./about.html">About</a>
+
+    <hr>
+
+    <!-- Lists -->
+
+    <ol>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+    </ol>
+
+    <ul>
+        <li>Shahwaiz</li>
+        <li>Adnan</li>
+        <li>Nazia</li>
+    </ul>
+
+    <dl>
+        <dt><b>Physics</b></dt>
+        <dd>The study of matter and energy.</dd>
+    </dl>
+
+    <hr>
+
+    <!-- Tables -->
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Contact</th>
+        </tr>
+        <tr>
+            <td>Shahwaiz</td>
+            <td>20</td>
+            <td>0301*****</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Nazia</td>
+                <td>90</td>
+            </tr>
+            <tr>
+                <td>Nazish</td>
+                <td>122</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <br>
+
+    <table border="1">
+        <tr>
+            <td>Name</td>
+            <td colspan="2">Contact</td>
+        </tr>
+        <tr>
+            <td>Usama</td>
+            <td colspan="2">0301****</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
